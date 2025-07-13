@@ -2,7 +2,7 @@
 
 #### **Phase 1: Initial User Request**
 
-1. A user navigates to the login page.
+1. A user navigates to the login page. 
     
 2. The PHP script checks for authentication parameters (`code` or `error` in the URL). If none are found, it initiates the OAuth2 flow.
     
