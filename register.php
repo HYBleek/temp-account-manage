@@ -347,7 +347,7 @@
 <body>
     <div class="container">
         <div class="intro-section">
-            <h1>Welcome to  Lab</h1>
+            <h1>Welcome to our Lab</h1>
             <p>Join our research community and gain access to cutting-edge computational tools and resources for scientific discovery.</p>
             
             <ul class="features">
