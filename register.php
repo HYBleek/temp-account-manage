@@ -2,6 +2,7 @@
 /**
  * Registration System Functions
  * Handles all backend logic for user registration
+ * Need a CVS file for recording
  */
 
 require_once 'php/config.php';
