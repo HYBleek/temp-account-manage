@@ -1,5 +1,7 @@
 # temp-account-manage
 
+## My basic idea so far
+
 #### **Phase 1: Initial User Request**
 
 1. A user navigates to the login page. 
